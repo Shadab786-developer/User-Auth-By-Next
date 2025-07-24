@@ -1,4 +1,3 @@
-import { NextURL } from "next/dist/server/web/next-url";
 import { NextResponse } from "next/server";
 import { NextRequest } from "next/server";
 
